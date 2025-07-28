@@ -40,14 +40,7 @@ Hi, I'm **Charlou T. Ybarley** — a passionate **Web and Mobile App Developer**
 
 ---
 
-## 📫 Let's Connect!
 
-I’m always open to collaboration, freelance projects, or just talking tech.  
-📧 **Email:** [Your Email Here]  
-🌐 **Website/Portfolio:** [Your Portfolio Here]  
-🔗 **LinkedIn / Other socials:** [Add links here]
-
----
 
 ## 🧠 Tech Stack Overview
 
