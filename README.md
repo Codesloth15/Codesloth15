@@ -12,6 +12,7 @@ Hi, I'm **Charlou T. Ybarley** — a passionate **Web and Mobile App Developer**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?logo=mui&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
@@ -32,7 +33,7 @@ Hi, I'm **Charlou T. Ybarley** — a passionate **Web and Mobile App Developer**
 ---
 
 ## 🌱 What I'm Working On
-- Creating responsive web apps with **React, Tailwind CSS & Node.js**
+- Creating responsive web apps with **React, Tailwind CSS, Bootstrap & Node.js**
 - Developing native Android apps using **Java**
 - Managing backend & real-time data with **Firebase**
 - Designing UI/UX in **Canva** & organizing projects in **Notion**
@@ -56,6 +57,7 @@ I’m always open to collaboration, freelance projects, or just talking tech.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
