@@ -1,12 +1,26 @@
-# Charlou T. Ybarley
+# Hi, I'm Charlou 👋
 
 ### Software Developer | Web • Mobile • Backend
 
-I'm a **BS Information Technology graduate** and software developer focused on building practical, user-centered applications across **web, mobile, and backend systems**.
+I build **practical, reliable, and user-focused software** across web, mobile, and backend systems.
 
-I have hands-on experience working with **React, TypeScript, Node.js, Java, Android, PostgreSQL, Firebase, and Supabase**. My experience includes developing production-oriented applications, integrating APIs and real-time data, designing responsive interfaces, and collaborating in Agile development environments.
+My main stack includes **React, TypeScript, Java, Android, Node.js, PostgreSQL, Firebase, and Supabase**. I enjoy turning requirements and real-world problems into applications that are **clean, maintainable, responsive, and easy to use**.
 
-I enjoy solving real problems through software and continuously improving how I design, build, debug, and maintain applications.
+I approach development as **problem-solving first, coding second** — understanding what needs to be solved, choosing the right approach, and building a solution that provides real value.
+
+---
+
+## What I Do
+
+* 🌐 Build responsive web applications with **React & TypeScript**
+* 📱 Develop native Android applications with **Java**
+* ⚛️ Build cross-platform mobile apps with **React Native & Expo**
+* ⚙️ Design and develop **REST APIs** with Node.js & Express
+* 🗄️ Work with **PostgreSQL, Firebase & Supabase**
+* 🔗 Integrate APIs, authentication, real-time data & third-party services
+* 🧩 Apply **Clean Architecture, MVVM & MVC** principles
+* 🐛 Debug, test, maintain & improve existing applications
+* 🤝 Work effectively in **Agile and collaborative development environments**
 
 ---
 
@@ -31,12 +45,12 @@ I enjoy solving real problems through software and continuously improving how I 
 **Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?logo=express\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase\&logoColor=white)
 
-**Development Tools**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
@@ -45,86 +59,18 @@ I enjoy solving real problems through software and continuously improving how I 
 
 ---
 
-## Experience
+## How I Provide Value
 
-### DOST – PSTO Kalinga
+I can contribute across the development lifecycle — from **turning requirements into interfaces**, connecting applications to APIs and databases, implementing business logic, debugging issues, and improving existing systems.
 
-**Software Development Intern | Lead Frontend Developer**
+I value **clean code, maintainability, usability, collaboration, and continuous learning**. When I encounter something I don't know, I research it, understand it, and work toward a solution.
 
-Worked within a development team building internal information systems using **React, TypeScript, Tailwind CSS, Node.js, and PostgreSQL**.
-
-* Developed authentication, dashboard, and analytics interfaces.
-* Integrated frontend components with backend APIs.
-* Contributed backend endpoints for a microservice-based system.
-* Participated in Agile sprints, daily stand-ups, code collaboration, debugging, and QA.
-* Completed **486 hours** of industry internship experience.
-
-### Freelance Developer
-
-**2023 – Present**
-
-Develop web and mobile solutions based on client and project requirements, covering interface development, backend integration, databases, debugging, and deployment.
+> **I don't just write code — I build solutions that solve problems and make software useful.**
 
 ---
 
-## Selected Projects
+### Open to Opportunities
 
-### Emergency Response App — ERA
+I'm open to **Software Developer, Frontend Developer, Mobile Developer, and Junior Full-Stack Developer** opportunities where I can contribute, learn from experienced developers, and grow through real-world engineering challenges.
 
-Emergency response platform developed for **Tabuk City CDRRMC**, connecting citizens, responders, and administrators through mobile and web applications.
-
-`Android` `Java` `React` `Firebase` `Google Maps`
-
-* Built GPS-based SOS reporting with real-time emergency alerts.
-* Developed responder and administrative monitoring functionality.
-* Integrated location services, Firebase real-time data, notifications, and emergency reporting.
-* Tested the system with real emergency-response stakeholders.
-
-### PRISM — Public Project Visualizer
-
-Interactive public transparency platform for visualizing projects across Kalinga municipalities.
-
-`React` `Vite` `Tailwind CSS` `React Leaflet` `Firebase`
-
-* Built an interactive map-based project visualization system.
-* Implemented project marker management and status tracking.
-* Integrated Firebase Storage for project images and data management.
-
-### Seasonal Harvest
-
-Multi-platform agricultural ordering, inventory, and delivery system designed around real business operations.
-
-`Android Java` `React` `Node.js` `Express` `PostgreSQL` `Supabase`
-
-* Building REST APIs for products, brands, categories, and inventory.
-* Developing an Android customer experience using MVVM architecture.
-* Designing a React-based administrative platform for business operations.
-
-### Bee Hive
-
-Cross-platform content organization application for saving and organizing useful content from different platforms into personal collections.
-
-`React Native` `Expo` `TypeScript`
-
-Currently developing the application's architecture, responsive mobile interface, and content organization experience for Android and iOS.
-
----
-
-## What I Bring
-
-```text
-Build practical software.
-Understand the problem.
-Write maintainable solutions.
-Learn from every challenge.
-```
-
-I'm especially interested in opportunities where I can contribute to **software engineering, frontend, mobile, or full-stack development** while continuing to grow as a developer.
-
----
-
-### Let's Connect
-
-I'm currently open to **entry-level and junior software development opportunities** and collaborations on meaningful software projects.
-
-Thanks for visiting my profile.
+**Build. Solve. Learn. Improve.**
